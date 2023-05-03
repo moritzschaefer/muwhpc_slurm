@@ -1,0 +1,5 @@
+{
+    "SBATCH_DEFAULTS": "nodes=1 cpus-per-task=5 mem=40GB time=72:00:00 qos=a100 partition=gpu gres=gpu:a100:1 ntasks-per-node=1 output=slurm_logs/slurm-%j.out",
+    "CLUSTER_NAME": "",
+    "CLUSTER_CONFIG": ""
+}
