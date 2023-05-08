@@ -7,7 +7,7 @@
 You are ready to go! Now a simple call to 'snakemake' will push your stuff to the cluster :)
 
 
-For more extensive documentation, refer to https://github.com/epigen/cemm.slurm.sm  (note: not everything applies)
+For more extensive documentation, refer to https://github.com/Snakemake-Profiles/slurm/tree/master and https://github.com/epigen/cemm.slurm.sm  (note: not everything applies for the second link)
 
 
 
