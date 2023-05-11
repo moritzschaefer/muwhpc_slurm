@@ -1,5 +1,5 @@
 {
-    "SBATCH_DEFAULTS": "nodes=1 cpus-per-task=2 mem_mb=40000 time=72:00:00 partition=cpu ntasks-per-node=1",
+    "SBATCH_DEFAULTS": "nodes=1 cpus-per-task=2 time=72:00:00 partition=cpu ntasks-per-node=1",
     "CLUSTER_NAME": "",
     "CLUSTER_CONFIG": ""
 }
