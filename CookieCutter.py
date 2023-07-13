@@ -32,7 +32,7 @@ class CookieCutter:
 
     @staticmethod
     def get_cluster_logpath() -> str:
-        return "logs/slurm/%j_%r_%w_%S"
+        return "logs/slurm/%j_%r" # _%r_%w_%S"
 
     @staticmethod
     def get_cluster_jobname() -> str:
